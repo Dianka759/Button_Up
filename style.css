@@ -1,0 +1,42 @@
+.container {
+    margin: 40px;
+}
+
+.box1 {
+    background-color: #daffdb;
+    border: 2px solid seagreen;
+    color: seagreen;
+    padding: 5px 50px;
+    text-align: center;
+    font-weight: bold;
+    height: fit-content;
+    width: fit-content;
+    margin: 10px 20px;
+    border-radius: 20px;
+}
+
+.box2 {
+    background-color:seagreen;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    margin: 10px 20px;
+    height: fit-content;
+    width: 25px;
+    border-radius: 50%;
+}
+
+.box3 {
+    background-color:cornflowerblue;
+    color: white;
+    font-size: large;
+    padding: 5px 5px;
+    text-align: center;
+    margin: 10px 20px;
+    height: fit-content;
+    width: 190px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 1px black;
+}
