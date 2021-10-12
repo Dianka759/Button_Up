@@ -2,41 +2,35 @@
     margin: 40px;
 }
 
+.box1, .box2, .box3 {
+    display: block;
+    margin-bottom: 10px;
+    height: 40px;
+
+}
 .box1 {
-    background-color: #daffdb;
-    border: 2px solid seagreen;
-    color: seagreen;
-    padding: 5px 50px;
-    text-align: center;
-    font-weight: bold;
-    height: fit-content;
-    width: fit-content;
-    margin: 10px 20px;
+    font-weight: 900;
+    width: 100px;
     border-radius: 20px;
+    color: red;
+    border: 2px solid red;
+    background-color: pink;
 }
 
 .box2 {
-    background-color:seagreen;
+    background-color:red;
     color: white;
-    padding: 5px 5px;
-    text-align: center;
     font-size: larger;
-    font-weight: bold;
-    margin: 10px 20px;
-    height: fit-content;
-    width: 25px;
+    width: 40px;
     border-radius: 50%;
+    border: none;
 }
 
 .box3 {
-    background-color:cornflowerblue;
+    background-color:rgb(133, 21, 21);
     color: white;
     font-size: large;
-    padding: 5px 5px;
-    text-align: center;
-    margin: 10px 20px;
-    height: fit-content;
     width: 190px;
     border: 2px solid black;
-    box-shadow: 5px 5px 1px black;
+    box-shadow: 5px 5px 1px rgb(228, 13, 13);
 }
